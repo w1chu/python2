@@ -57,3 +57,5 @@ for i in range(365):
     if nick.alive == False:
         break
     nick.live(i)
+
+print()
