@@ -59,3 +59,4 @@ for i in range(365):
     nick.live(i)
 
 print()
+print()
